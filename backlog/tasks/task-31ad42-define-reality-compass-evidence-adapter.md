@@ -1,7 +1,7 @@
 ---
 id: task-31ad42
 title: Define Reality Compass evidence adapter contract
-status: in-progress
+status: in-review
 assignee:
 - '@chatgpt'
 tier: P
@@ -9,9 +9,9 @@ priority: high
 experiment: ''
 component: docs/architecture
 depends_on: []
-files: []
-new_files:
+files:
 - docs/architecture/reality-compass-evidence-adapter.md
+new_files: []
 blocker: ''
 created_date: '2026-10-05'
 updated_date: '2026-10-05'
